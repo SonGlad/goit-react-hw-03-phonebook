@@ -2,7 +2,7 @@ import { styled } from "styled-components";
 
 
 export const SectionStyle = styled.section`
-    height: 100%;
+    height: 100vw;
     display: flex;
     /* justify-content: center; */
     align-items: center;
